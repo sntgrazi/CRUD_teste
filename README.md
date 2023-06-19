@@ -1,6 +1,7 @@
-Teste Finalizado com as funcinalidades:
+# Teste Finalizado com as funcionalidades requeridas:
+
 - Adicionar um artigo;
-- Listar os aritogs;
+- Listar os artigos;
 - Editar artigo;
 - Deletar artigo.
 
